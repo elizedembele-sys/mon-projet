@@ -1,2 +1,2 @@
-Mon premier projet Git
+Mon premier projet Git suivi du commit
 
